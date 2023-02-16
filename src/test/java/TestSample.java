@@ -4,7 +4,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 /**
- * It's the example for the seventh lab
+ * It's the example of the seventh lab
  *
  * @author Vira Harasymiv
  */
